@@ -2,6 +2,8 @@
 title: "Gabriel Amorim de A. Silva"
 image: "gabriel.jpg"
 links:
+  - label: CV
+    url: "https://bielasilva.github.io/media/CV_GAAS.pdf"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gabriel-a-a-silva/"
   - label: GitHub
@@ -12,4 +14,4 @@ output:
   postcards::jolla_blue
 ---
 
-I am a Bioprocesses and Biotechnology Engineering undergraduate student from University of State of Bahia in Brazil. I am focusing my career in Bioinformatics, and am currently working with genomics and metagenomics.
+I am a Bioprocesses and Biotechnology Engineering undergraduate student from Bahia State University in Brazil. I am focusing my career in Bioinformatics, and am currently working with comparative genomics of *Aeromonas veronii*. I have hands on experience in genomics, metagenomics, molecular biology and microbiology.
